@@ -1,0 +1,82 @@
+[
+  {
+    "id": "q1",
+    "theme": "Géographie",
+    "text": "Quelle est la capitale de la France ?",
+    "options": ["Paris", "Lyon", "Marseille", "Toulouse"],
+    "answer": 0,
+    "time": 15
+  },
+  {
+    "id": "q2",
+    "theme": "Histoire",
+    "text": "En quelle année la Révolution française a-t-elle commencé ?",
+    "options": ["1789", "1776", "1804", "1815"],
+    "answer": 0,
+    "time": 20
+  },
+  {
+    "id": "q3",
+    "theme": "Sciences",
+    "text": "Quel est le symbole chimique de l'eau ?",
+    "options": ["H2O", "O2", "CO2", "HO"],
+    "answer": 0,
+    "time": 10
+  },
+  {
+    "id": "q4",
+    "theme": "Culture",
+    "text": "Quel peintre a réalisé 'La Nuit étoilée' ?",
+    "options": ["Vincent van Gogh", "Claude Monet", "Pablo Picasso", "Salvador Dalí"],
+    "answer": 0,
+    "time": 15
+  },
+  {
+    "id": "q5",
+    "theme": "Sports",
+    "text": "Combien de joueurs y a-t-il dans une équipe de football sur le terrain ?",
+    "options": ["11", "10", "12", "9"],
+    "answer": 0,
+    "time": 12
+  },
+  {
+    "id": "q6",
+    "theme": "Technologie",
+    "text": "Quel langage est principalement utilisé pour le développement web côté client ?",
+    "options": ["JavaScript", "Python", "C#", "Java"],
+    "answer": 0,
+    "time": 15
+  },
+  {
+    "id": "q7",
+    "theme": "Art",
+    "text": "Quelle période artistique est associée à Michel-Ange ?",
+    "options": ["Renaissance", "Baroque", "Romantisme", "Moyen Âge"],
+    "answer": 0,
+    "time": 20
+  },
+  {
+    "id": "q8",
+    "theme": "Littérature",
+    "text": "Qui a écrit 'Le Petit Prince' ?",
+    "options": ["Antoine de Saint-Exupéry", "Victor Hugo", "Albert Camus", "Marcel Proust"],
+    "answer": 0,
+    "time": 15
+  },
+  {
+    "id": "q9",
+    "theme": "Musique",
+    "text": "Quel groupe a chanté 'Hey Jude' ?",
+    "options": ["The Beatles", "The Rolling Stones", "Queen", "Pink Floyd"],
+    "answer": 0,
+    "time": 12
+  },
+  {
+    "id": "q10",
+    "theme": "Cinéma",
+    "text": "Quel film a réalisé Steven Spielberg en 1993 mettant en scène un parc peuplé de dinosaures ?",
+    "options": ["Jurassic Park", "E.T.", "Schindler's List", "Jaws"],
+    "answer": 0,
+    "time": 20
+  }
+]
